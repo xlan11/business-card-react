@@ -8,8 +8,8 @@ export default function Info() {
             <h4>Frontend Developer</h4>
             <a href="website.com">website.com</a>
             <div className="btn--container">
-            <button className="btn--email">Email</button>
-            <button className="btn--linkedin">LinkedIn</button>
+            <button className="btn btn--email">Email</button>
+            <button className="btn btn--linkedin">LinkedIn</button>
             </div>
         </div>
     )
